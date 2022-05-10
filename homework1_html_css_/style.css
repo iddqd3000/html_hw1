@@ -4,11 +4,22 @@ body {
   font-family: comic sans ms;
   color: #1d5440;
   }
+  
 H1 {
   display: inline-block;
   position: relative;
   letter-spacing: .05em;
-  font-size: 40px;  
+  font-size: 30px;  
   transition: all 1s;
   }
-  
+  .whitetable{
+  background-color: white;
+  color: black;
+  margin: 10px;
+  padding: 10px;
+  }
+  .blacktable{
+  background-color: black;
+  color: white;
+  margin: 10px;
+  padding: 10px;
